@@ -21,8 +21,4 @@ pytorch_lightning/plugins/legacy/*
 
 
 # TODO
-pytorch_lightning/profiler/*
-
-
-# TODO
 tests/*

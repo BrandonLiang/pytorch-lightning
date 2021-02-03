@@ -5,7 +5,6 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/).
 
 
-<<<<<<< HEAD
 ## [unreleased.Features] - YYYY-MM-DD
 
 ### Added
@@ -186,9 +185,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/).
 
 ### Removed
 
-=======
 ## [1.1.7] - 2021-02-03
->>>>>>> 6a7bf328 (release 1.1.7 (#5761))
 
 ### Fixed
 
